@@ -1,4 +1,4 @@
-An experimentation using `Reporter <http://www.reporter-app.com/>`_.
+An experiment using `Reporter <http://www.reporter-app.com/>`_.
 
 Requirements
 ------------
@@ -15,8 +15,6 @@ Installation
   $ pip install -r requirements.txt
 
 Set the following environmental variables::
-
-::
 
   $ export DROPBOX_TOKEN=token
   $ export S3_BUCKET=my-bucket
